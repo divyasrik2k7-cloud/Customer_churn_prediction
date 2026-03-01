@@ -1,6 +1,5 @@
-# FUTURE_ML_02
-Customer churn prediction using Logistic Regression, Random Forest, and XGBoost
 # Customer Churn Prediction System
+Customer churn prediction using Logistic Regression, Random Forest, and XGBoost
 
 ## Overview
 This project predicts customer churn using machine learning models and
